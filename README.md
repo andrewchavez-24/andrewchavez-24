@@ -10,7 +10,7 @@
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/andrewchavez-24/ad-prereqs)
   - [Active Directory: Configuring On-premises Active Directory within Azure VMs](https://github.com/andrewchavez-24/configure-ad)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/andrewchavez-24/managing-ad)
-- <b>Microsoft Azure Compute and Networking</b>
+- <b>Microsoft Azure: Compute and Networking</b>
   - [Microsoft Azure: Creating a Virtual Machine and using Remote Desktop](https://github.com/andrewchavez-24/VM-VPNs)
   - [Microsoft Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewchavez-24/azure-network-protocols)
   - [Microsoft Azure: Virtual Private Networks (VPNs)](https://github.com/andrewchavez-24/VM-VPNs)
